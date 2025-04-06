@@ -2,3 +2,27 @@ html {
   height: 100%;
   width: 100%;
 }
+
+
+h1{
+  background-color: hotpink;
+}
+
+h2{
+  background-color: antiquewhite;
+}
+
+p{
+  background-color: fuchsia;
+}
+
+header{
+  font-size: larger;
+}
+
+footer{
+  font-style: oblique;
+}
+table, th, td {
+  border: 1px solid black;
+}
